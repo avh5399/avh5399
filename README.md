@@ -25,8 +25,6 @@ Software Engineer
 
 <a href="http://www.github.com/avh5399"><img src="https://github-readme-stats.vercel.app/api?username=avh5399&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="avh5399's GitHub stats" /></a>
 
-<a href="http://www.github.com/avh5399"><img src="https://activity-graph.herokuapp.com/graph?username=avh5399&bg_color=22272e&color=ffffff&line=ef4444&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/avh5399" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avh5399&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
